@@ -224,7 +224,7 @@ Rapido-Ride-Analytics-Dashboard
 
 # 👩‍💻 About Me
 
-### Rakhi
+### Ms. Rakhi
 
 Aspiring **Data Analyst** & **Frontend Developer** passionate about building interactive dashboards and converting raw data into actionable insights.
 
@@ -247,6 +247,5 @@ Aspiring **Data Analyst** & **Frontend Developer** passionate about building int
 
 ---
 
-Made with ❤️ using **Power BI**
 
 </div>
