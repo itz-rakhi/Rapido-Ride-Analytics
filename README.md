@@ -6,7 +6,7 @@
 
 Analyze ride performance, revenue, customer behavior, and operational insights through an interactive and dynamic dashboard.
 
-<img src="dashboard.png" width="100%" alt="Rapido Dashboard"/>
+<img src="https://github.com/itz-rakhi/Rapido-Ride-Analytics/blob/main/rapido%20ride%20analytics.png" width="100%" alt="Rapido Dashboard"/>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-005C9C?style=for-the-badge)
